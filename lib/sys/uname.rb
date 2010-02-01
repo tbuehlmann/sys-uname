@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'win32ole'
 require 'socket'
 require 'time'
